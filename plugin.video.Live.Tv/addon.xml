@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Live.Tv" 
-               name="[COLOR orange][B][COLOR lime]LIVE[/COLOR] TV[/COLOR][/B]"
+               name="[COLOR orange][B][COLOR lime] LIVE[/COLOR] TV[/COLOR][/B]"
        version="2.8.5" 
        provider-name="LIVE TV">
   <requires>
@@ -12,6 +12,7 @@
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" /> 
     <import addon="script.common.plugin.cache" version="2.5.2"/>
