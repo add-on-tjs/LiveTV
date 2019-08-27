@@ -1,0 +1,1 @@
+Repositorio Oficial LIVE TV, Todos os direitos reservados!
